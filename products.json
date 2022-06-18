@@ -1,0 +1,43 @@
+{
+    "products": [{
+        "id": 1,
+        "price": "$9.30",
+        "img": "sweater.svg"
+      }, {
+        "id": 2,
+        "price": "$9.73",
+        "img": "sweater2.svg"
+      }, {
+        "id": 3,
+        "price": "$7.33",
+        "img": "shirt.svg"
+      }, {
+        "id": 4,
+        "price": "$7.86",
+        "img": "sweater3.svg"
+      }, {
+        "id": 5,
+        "price": "$4.76",
+        "img": "sweater4.svg"
+      }, {
+        "id": 6,
+        "price": "$3.95",
+        "img": "sweater.svg"
+      }, {
+        "id": 7,
+        "price": "$2.40",
+        "img": "sweater3.svg"
+      }, {
+        "id": 8,
+        "price": "$2.94",
+        "img": "sweater.svg"
+      }, {
+        "id": 9,
+        "price": "$2.86",
+        "img": "shirt.svg"
+      }, {
+        "id": 10,
+        "price": "$2.33",
+        "img": "sweater4.svg"
+      }]
+}
